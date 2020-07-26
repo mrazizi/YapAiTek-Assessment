@@ -1,6 +1,6 @@
 # YapAiTek Assessment
 
-This is the assessment of [YapAiTek](http://www.yapaitek.com/) YapAiTek company as a part of the process of selecting candidates for their "Junior Data Scientist" Position.
+This is the assessment of [YapAiTek](http://www.yapaitek.com/) company as a part of the process of selecting candidates for their *Junior Data Scientist* Position.
 
 This is a time-series forcasting problem. The goal is to predict air quality of Singapore (Pollutant Standards Index or PSI) using an existing dataset of PSI levels between year 2016 to 2019.
 
