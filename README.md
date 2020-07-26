@@ -22,11 +22,21 @@ matplotlib               3.2.2
 
 ## About the Task
 
+
 ### Dataset
+![dataset](img/dataset.png?raw=true "Title")
+
 
 ### Model
+We used 4 lags of data as the input to a LSTM model.
+
+
 
 ### Results
+The following image is the plot of prediction vs true PSI levels for out test data:
+
+![dataset](img/result.png?raw=true "Title")
+
 
 
 
