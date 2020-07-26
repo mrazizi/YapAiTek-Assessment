@@ -20,6 +20,17 @@ matplotlib               3.2.2
 ```
 
 
+## About the Task
+
+### Dataset
+
+### Model
+
+### Results
+
+
+
+
 ## Contributing
 
 Feel free to make issues or create pull requests :)
